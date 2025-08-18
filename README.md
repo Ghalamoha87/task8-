@@ -31,6 +31,6 @@ CREATE TABLE users (
 ## Result 
 
 
-<img width="633" height="475" alt="image" src="https://github.com/user-attachments/assets/e9ca9a57-abde-4df8-9e1a-470085f2154c" />
+<img width="1914" height="936" alt="image" src="https://github.com/user-attachments/assets/f776f6ca-40f8-4237-ad9d-66fb5d4d8138" />
 
 
